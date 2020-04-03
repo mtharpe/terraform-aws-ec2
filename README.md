@@ -1,3 +1,5 @@
+![Terraform GitHub Actions](https://github.com/mtharpe/terraform-aws-module-ec2/workflows/Terraform%20GitHub%20Actions/badge.svg)
+
 # AWS EC2 Instance Terraform module
 
 Terraform module which creates EC2 instance(s) on AWS.
