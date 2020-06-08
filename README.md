@@ -160,10 +160,12 @@ data "aws_ami" "ubuntu-xenial" {
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
-## Authors
+## License and Maintainer
 
-Module managed by [Anton Babenko](https://github.com/antonbabenko).
+Maintainer:: HashiCorp (<hello@hashicorp.com>)
 
-## License
+Source:: https://github.com/mtharpe/terraform-aws-ec2
 
-Apache 2 Licensed. See LICENSE for full details.
+Issues:: https://github.com/mtharpe/terraform-aws-ec2/issues
+
+License:: Apache-2.0
